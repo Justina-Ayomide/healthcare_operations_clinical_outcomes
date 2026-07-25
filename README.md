@@ -1,7 +1,7 @@
 # Healthcare Data Analytics — Operations & Clinical Outcomes
 
 ## Overview
-Healthcare institutions generate massive amounts of operational and clinical data daily. Without proper analysis, critical patterns — such as which departments have the highest risk of patient readmission, which diagnoses drive the longest hospital stays, and where mortality risk is concentrated — remain hidden. This leads to inefficient resource allocation and missed opportunities to improve patient outcomes.
+Healthcare institutions generate massive amounts of operational and clinical data daily. Without proper analysis, critical patterns such as which departments have the highest risk of patient readmission, which diagnoses drive the longest hospital stays, and where mortality risk is concentrated remain hidden. This leads to inefficient resource allocation and missed opportunities to improve patient outcomes.
 
 This project performs an end-to-end analysis of a 100,000-patient hospital dataset to uncover operational inefficiencies and clinical performance gaps. Using MySQL for structured data exploration and Power BI for interactive dashboard development, the analysis answers key business and clinical questions that hospital administrators and clinical teams can act on.
 
