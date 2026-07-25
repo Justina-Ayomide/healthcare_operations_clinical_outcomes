@@ -237,6 +237,13 @@ Clinical Outcomes & Insurance
 - **68.57% of patients recovered successfully**, with a further 20.6% showing improvement
 - Recovery rates were broadly consistent across insurance types, ranging from 68.3% to 68.8%, suggesting little observable difference in recovery rates by insurance category within this dataset.
 
+  ## Dashboard Preview
+
+![Page 1 - Hospital Operation Dashboard](hospital_operation_dashboard.png)
+
+![Page 2 - Clinical Performance & Outcomes](clinical_performance_outcomes.PNG)
+
+
 ## Dashboard Overview
 The Power BI dashboard consists of two interactive pages, each targeting a distinct analytical perspective.
 
