@@ -335,7 +335,7 @@ Based on the findings from this analysis, the following recommendations are prop
 5. **Monitor Outcome Patterns Across Insurance Types** — Recovery rates were broadly consistent across insurance categories in this dataset. Hospital management should continue monitoring outcome patterns across insurance groups to ensure consistent standards of care and identify any emerging disparities.
 
 ## Author
-** Adesoji Justina Ayomide**
+Adesoji Justina Ayomide
 Radiography Student | Healthcare Data Analyst
 📍 Nigeria
 🔗 www.linkedin.com/in/justina-ayomide
