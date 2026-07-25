@@ -319,9 +319,9 @@ CALCULATE([Readmission Rate], 'healthcare_operations healthcare'[Severity] = "Hi
 
 ## Project Structure
 healthcare_operations_clinical_outcomes
-README.md # Project documentation
-healthcare_analysis.sql # All SQL queries
-Hospital_Operation.pbix
+README.md  (Project documentation)
+healthcare_analysis.sql (All SQL queries)
+Hospital_Operation_Dashboard.Pdf
 page1_hospital Operations Dashboard.png
 page2_clinical Performance & Patient Outcomes.png
 
@@ -339,3 +339,4 @@ Adesoji Justina Ayomide
 Radiography Student | Healthcare Data Analyst
 📍 Nigeria
 🔗 www.linkedin.com/in/justina-ayomide
+
