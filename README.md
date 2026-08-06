@@ -344,6 +344,6 @@ Based on the findings from this analysis, the following recommendations are prop
 ## Author
 Adesoji Justina Ayomide
 Radiography Student | Healthcare Data Analyst
-📍 Nigeria
-🔗 www.linkedin.com/in/justina-ayomide
+| Nigeria |
+ www.linkedin.com/in/justina-ayomide
 
